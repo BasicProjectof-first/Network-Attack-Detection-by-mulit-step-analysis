@@ -1,0 +1,15 @@
+REQUIREMENTS
+## Install all this requirements updated versions
+pandas
+numpy
+matplotlib,seaborn
+plotly
+sklearn, standardsclaer
+sklearn,selectKBest,f_classif
+sklearn,RandomForestClassifier,VotingClassifier,AdaBoostClassifier, ExtraTreesClassifier
+XGBClassifier
+SGDClassifier
+LGBMClassifier
+RandomUnderSampler
+tensflow,Input, Dense, Dropout, LSTM, Flatten, InputLayer, BatchNormalization, Conv1D, MaxPooling1D
+Gradio
